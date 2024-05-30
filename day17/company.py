@@ -20,4 +20,3 @@ print(df)
 
 df = pandas.DataFrame(data)
 df.to_csv('company.csv',index=False, encoding='cp949')
-

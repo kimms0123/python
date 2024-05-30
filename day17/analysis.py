@@ -59,3 +59,4 @@ print(df.info()) # 어떤식으로 생겼는지 알려줌
 print(df.describe()) # 필드 안에 들어간 내용을 자세하게 알려줌
 
 print(df.sort_values(by='name'))
+print(df)
